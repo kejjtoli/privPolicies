@@ -1,1 +1,4 @@
-Hello!
+This application (The Blocc) does not collect or store any personal data.
+
+If you have installed this application using Google Play then be aware that Google Play collects some user data.
+For more info please see the Google Play privacy policy here: https://policies.google.com/privacy
